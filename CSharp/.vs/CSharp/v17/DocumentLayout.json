@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\estagiario.inovacao\\documents\\csharp\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\estagiario.inovacao\\documents\\csharp\\csharp\\csharp\\behavior\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\behavior\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\estagiario.inovacao\\documents\\csharp\\csharp\\csharp\\structural\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\structural\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\estagiario.inovacao\\documents\\csharp\\csharp\\csharp\\creational\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\creational\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\estagiario.inovacao\\documents\\csharp\\csharp\\csharp\\csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Behavior\\Observer.cs",
+              "RelativeDocumentMoniker": "CSharp\\Behavior\\Observer.cs",
+              "ToolTip": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Behavior\\Observer.cs",
+              "RelativeToolTip": "CSharp\\Behavior\\Observer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:03:15.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Structural\\Facade.cs",
+              "RelativeDocumentMoniker": "CSharp\\Structural\\Facade.cs",
+              "ToolTip": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Structural\\Facade.cs",
+              "RelativeToolTip": "CSharp\\Structural\\Facade.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAADYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:46:31.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Creational\\Singleton.cs",
+              "RelativeDocumentMoniker": "CSharp\\Creational\\Singleton.cs",
+              "ToolTip": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Creational\\Singleton.cs",
+              "RelativeToolTip": "CSharp\\Creational\\Singleton.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:27:54.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CSharp",
+              "DocumentMoniker": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\CSharp.csproj",
+              "RelativeDocumentMoniker": "CSharp\\CSharp.csproj",
+              "ToolTip": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\CSharp.csproj",
+              "RelativeToolTip": "CSharp\\CSharp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T16:25:15.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Program.cs",
+              "RelativeToolTip": "CSharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:24:42.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
