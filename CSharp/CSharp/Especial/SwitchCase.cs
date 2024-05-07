@@ -1,9 +1,6 @@
-﻿/*using CSharp.Behavior;
-using CSharp.Creational;
-using CSharp.Structural;
-using System;
+﻿using System;
 
-class Program
+public class Class1
 {
     static void Main(string[] args)
     {
@@ -25,4 +22,3 @@ class Program
 
     }
 }
-*/
