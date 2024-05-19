@@ -2,25 +2,20 @@
 using CSharp.Creational;
 using CSharp.Structural;
 using System;
+using CSharp.Poo;
 
 class Program
 {
-    static void Main(string[] args)
+   static void Main(string[] args)
     {
-        int inteiro = int.Parse(Console.ReadLine());
-        string day;
-
-        switch (inteiro)
+        List<Account> accounts = new List<Account>();
+        accounts.Add(new SavingAccount(13, "Angelo", "Angelo@Santos"));
+        accounts.Add(new SavingAccount(25, "gabriel", "gabriel@santos"));
+        accounts.Add(new SavingAccount(32, "Roos", "Roos@santos"));
+        
+        foreach (var account in accounts)
         {
-            case 1:
-                Console.WriteLine("é 1");
-                break;
-            case 2:
-                Console.WriteLine("É 2");
-                break;
-            case 3:
-                Console.WriteLine("é 3");
-                break;
+            Console.WriteLine(account);
         }
 
     }
