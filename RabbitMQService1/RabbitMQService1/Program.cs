@@ -1,6 +1,3 @@
-
-
-
 using RabbitMQ.Client;
 using System.Text;
 using System.Text.Json;
@@ -9,7 +6,7 @@ var factory = new ConnectionFactory { HostName = "localhost"};
 using var connection = factory.CreateConnection();
 using var channel = connection.CreateModel();
 
-channel.QueueDeclare(queue: "RabittMQ",
+channel.QueueDeclare(queue: "RabbitMQ",
                      durable: false,
                      exclusive: false,
                      autoDelete: false,
@@ -28,7 +25,7 @@ while (true)
     var body = Encoding.UTF8.GetBytes(mensage);
 
     channel.BasicPublish(exchange: string.Empty,
-                         routingKey: "RabittMQ",
+                         routingKey: "RabbitMQ",
                          basicProperties: null,
                          body: body);
     Console.WriteLine($" [x] Seding {mensage}");
