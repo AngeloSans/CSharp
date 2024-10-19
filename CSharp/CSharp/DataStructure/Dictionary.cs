@@ -17,10 +17,10 @@ namespace CSharp.DataStructure
             Models.Add("Adriana Lima", "Brazil");
             Models.Add("Alessandra Ambrosio", "Brazil");
 
-            foreach (var item in Models)
-            {
-                Console.WriteLine(item);
-            }
+
+            Console.WriteLine(Models.ContainsKey("Adriana Lima"));
+
+            Console.WriteLine(Models.ContainsValue("Brazil"));
 
 
 
