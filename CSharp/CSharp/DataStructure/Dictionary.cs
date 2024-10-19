@@ -10,11 +10,20 @@ namespace CSharp.DataStructure
 {
     class Dictionary
     {
-        Dictionary<String, List<String>> models = new Dictionary< String, List<String>>();
-
-        List<String> Brazil = new List<String>()
+        static void Main(string[] args)
         {
-            AddingNewEventArgs()
+            Dictionary<String, String> Models = new Dictionary<String, String>();
+
+            Models.Add("Adriana Lima", "Brazil");
+            Models.Add("Alessandra Ambrosio", "Brazil");
+
+            foreach (var item in Models)
+            {
+                Console.WriteLine(item);
+            }
+
+
+
         }
 
     }

@@ -1,23 +1,19 @@
-﻿/*using CSharp.Behavior;
-using CSharp.Creational;
-using CSharp.Structural;
-using System;
-using CSharp.Poo;
+﻿/*using System;
 
 class Program
 {
-   static void Main(string[] args)
+    static void Main(string[] args)
     {
-        List<Account> accounts = new List<Account>();
-        accounts.Add(new SavingAccount(13, "Angelo", "Angelo@Santos"));
-        accounts.Add(new SavingAccount(25, "gabriel", "gabriel@santos"));
-        accounts.Add(new SavingAccount(32, "Roos", "Roos@santos"));
-        
-        foreach (var account in accounts)
-        {
-            Console.WriteLine(account);
-        }
+        int num1 = 2;
+        double num2 = 3.8;
 
+        if (num1 + num2 == 5)
+        {
+            Console.WriteLine(num1 + num2);
+        }
+        else
+        {
+            Console.WriteLine(num1 + num2);
+        }
     }
-}
-*/
+}*/
