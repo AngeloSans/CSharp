@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -12,19 +12,26 @@ namespace CSharp.DataStructure
     {
         static void Main(string[] args)
         {
-            Dictionary<String, String> Models = new Dictionary<String, String>();
+            Dictionary<String, int> Models = new Dictionary<String, int>();
 
-            Models.Add("Adriana Lima", "Brazil");
-            Models.Add("Alessandra Ambrosio", "Brazil");
+            Models.Add("Adriana Lima", 1);
 
+            Models.Add("Alessandra Ambrosio", 2);
 
-            Console.WriteLine(Models.ContainsKey("Adriana Lima"));
+            foreach (var item in Models)
+            {
+                Console.WriteLine(item);
+            }
 
-            Console.WriteLine(Models.ContainsValue("Brazil"));
+            Console.WriteLine(Models.ContainsKey("Gizele Bundchen"));
+
+            Console.WriteLine(Models.ContainsValue(2));
 
 
 
         }
+    
 
     }
 }
+*/
