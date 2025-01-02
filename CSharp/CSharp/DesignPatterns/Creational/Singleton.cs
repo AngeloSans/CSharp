@@ -25,6 +25,12 @@ namespace CSharp.Creational
         {
             Console.WriteLine("conectando ao DB");
         }
+
+        static void Main(string[] args) 
+        { 
+            Singleton singleton = GetInstance();
+            singleton.GetConnection();
+        }
     }
 }
 */

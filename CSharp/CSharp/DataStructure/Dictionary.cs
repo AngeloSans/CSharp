@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using Szystem;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -25,7 +25,6 @@ namespace CSharp.DataStructure
                 "Barbados",
                 "Bolivia",
                 "Bangladesh"
-
             };
             countries.Add("B", B);
 
@@ -39,3 +38,4 @@ namespace CSharp.DataStructure
 
     }
 }
+*/
