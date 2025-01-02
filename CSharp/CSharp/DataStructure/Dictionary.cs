@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -12,26 +12,30 @@ namespace CSharp.DataStructure
     {
         static void Main(string[] args)
         {
-            Dictionary<String, int> Models = new Dictionary<String, int>();
+            //create a hashmap
+           Dictionary<String, List<String>> countries = new Dictionary<String, List<String>>();
 
-            Models.Add("Adriana Lima", 1);
-
-            Models.Add("Alessandra Ambrosio", 2);
-
-            foreach (var item in Models)
+            //Create a list of contries
+            List<String> B = new List<String>()
             {
-                Console.WriteLine(item);
+                //add countries to my list
+                "Brazil",
+                "Bulgaria",
+                "Belgium",
+                "Barbados",
+                "Bolivia",
+                "Bangladesh"
+
+            };
+            countries.Add("B", B);
+
+            foreach (var regions in countries) 
+            {
+                Console.WriteLine("Countries: " + string.Join(", ", regions.Value));
             }
-
-            Console.WriteLine(Models.ContainsKey("Gizele Bundchen"));
-
-            Console.WriteLine(Models.ContainsValue(2));
-
-
 
         }
     
 
     }
 }
-*/
