@@ -1,6 +1,6 @@
-﻿/*using Szystem;
+﻿using System;
 using System.Collections;
-using System.Collections.Generic;
+/*using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Text;
@@ -12,27 +12,22 @@ namespace CSharp.DataStructure
     {
         static void Main(string[] args)
         {
-            //create a hashmap
-           Dictionary<String, List<String>> countries = new Dictionary<String, List<String>>();
+            //create you dictionary
+            Dictionary<String, List<String>> countries = new Dictionary<String, List<String>>();
 
-            //Create a list of contries
             List<String> B = new List<String>()
             {
-                //add countries to my list
                 "Brazil",
                 "Bulgaria",
                 "Belgium",
-                "Barbados",
-                "Bolivia",
-                "Bangladesh"
             };
+
             countries.Add("B", B);
 
-            foreach (var regions in countries) 
+            foreach (var country in countries)
             {
-                Console.WriteLine("Countries: " + string.Join(", ", regions.Value));
+                Console.WriteLine("Countries: " + string.Join(", ", country.Value));
             }
-
         }
     
 

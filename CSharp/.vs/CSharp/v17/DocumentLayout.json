@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\designpatterns\\behavior\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\designpatterns\\behavior\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\datastructure\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\datastructure\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\designpatterns\\creational\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\designpatterns\\creational\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\designpatterns\\behavior\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\designpatterns\\behavior\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\designpatterns\\creational\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\designpatterns\\creational\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\datastructure\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\datastructure\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\designpatterns\\structural\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\designpatterns\\structural\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\datastructure\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +35,12 @@
       "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\datastructure\\hashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\datastructure\\sortedset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\datastructure\\sortedset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\designpatterns\\behavior\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\designpatterns\\behavior\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\designpatterns\\structural\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|solutionrelative:csharp\\designpatterns\\structural\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BBC11E2-5333-4B54-892D-6C16236B6B4E}|CSharp\\CSharp.csproj|c:\\users\\gabri\\source\\repos\\csharp\\csharp\\csharp\\especial\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,11 +83,142 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mediator.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Behavior\\Mediator.cs",
+              "RelativeDocumentMoniker": "CSharp\\DesignPatterns\\Behavior\\Mediator.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Behavior\\Mediator.cs",
+              "RelativeToolTip": "CSharp\\DesignPatterns\\Behavior\\Mediator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:12:18.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\Especial\\Exceptions.cs",
+              "RelativeDocumentMoniker": "CSharp\\Especial\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\Especial\\Exceptions.cs",
+              "RelativeToolTip": "CSharp\\Especial\\Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:10:12.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Structural\\Facade.cs",
+              "RelativeDocumentMoniker": "CSharp\\DesignPatterns\\Structural\\Facade.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Structural\\Facade.cs",
+              "RelativeToolTip": "CSharp\\DesignPatterns\\Structural\\Facade.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:10:02.361Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Creational\\Singleton.cs",
+              "RelativeDocumentMoniker": "CSharp\\DesignPatterns\\Creational\\Singleton.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Creational\\Singleton.cs",
+              "RelativeToolTip": "CSharp\\DesignPatterns\\Creational\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:09:49.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Behavior\\Observer.cs",
+              "RelativeDocumentMoniker": "CSharp\\DesignPatterns\\Behavior\\Observer.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Behavior\\Observer.cs",
+              "RelativeToolTip": "CSharp\\DesignPatterns\\Behavior\\Observer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:09:35.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SortedSet.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\SortedSet.cs",
+              "RelativeDocumentMoniker": "CSharp\\DataStructure\\SortedSet.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\SortedSet.cs",
+              "RelativeToolTip": "CSharp\\DataStructure\\SortedSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:04:59.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HashSet.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\HashSet.cs",
+              "RelativeDocumentMoniker": "CSharp\\DataStructure\\HashSet.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\HashSet.cs",
+              "RelativeToolTip": "CSharp\\DataStructure\\HashSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:04:57.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\Program.cs",
+              "RelativeToolTip": "CSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:24:42.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\Dictionary.cs",
+              "RelativeDocumentMoniker": "CSharp\\DataStructure\\Dictionary.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\Dictionary.cs",
+              "RelativeToolTip": "CSharp\\DataStructure\\Dictionary.cs",
+              "ViewState": "AgIAABoAAAAAaWvuDq4nwCMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:04:55.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\ArrayList.cs",
+              "RelativeDocumentMoniker": "CSharp\\DataStructure\\ArrayList.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\ArrayList.cs",
+              "RelativeToolTip": "CSharp\\DataStructure\\ArrayList.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:05:19.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Factory.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Creational\\Factory.cs",
               "RelativeDocumentMoniker": "CSharp\\DesignPatterns\\Creational\\Factory.cs",
@@ -96,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Generic.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\Especial\\Generic.cs",
               "RelativeDocumentMoniker": "CSharp\\Especial\\Generic.cs",
@@ -108,122 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Exceptions.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\Especial\\Exceptions.cs",
-              "RelativeDocumentMoniker": "CSharp\\Especial\\Exceptions.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\Especial\\Exceptions.cs",
-              "RelativeToolTip": "CSharp\\Especial\\Exceptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:10:12.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Facade.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Structural\\Facade.cs",
-              "RelativeDocumentMoniker": "CSharp\\DesignPatterns\\Structural\\Facade.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Structural\\Facade.cs",
-              "RelativeToolTip": "CSharp\\DesignPatterns\\Structural\\Facade.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAADwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:10:02.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Singleton.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Creational\\Singleton.cs",
-              "RelativeDocumentMoniker": "CSharp\\DesignPatterns\\Creational\\Singleton.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Creational\\Singleton.cs",
-              "RelativeToolTip": "CSharp\\DesignPatterns\\Creational\\Singleton.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowB8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:09:49.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Observer.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Behavior\\Observer.cs",
-              "RelativeDocumentMoniker": "CSharp\\DesignPatterns\\Behavior\\Observer.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DesignPatterns\\Behavior\\Observer.cs",
-              "RelativeToolTip": "CSharp\\DesignPatterns\\Behavior\\Observer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:09:35.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SortedSet.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\SortedSet.cs",
-              "RelativeDocumentMoniker": "CSharp\\DataStructure\\SortedSet.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\SortedSet.cs",
-              "RelativeToolTip": "CSharp\\DataStructure\\SortedSet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:04:59.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HashSet.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\HashSet.cs",
-              "RelativeDocumentMoniker": "CSharp\\DataStructure\\HashSet.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\HashSet.cs",
-              "RelativeToolTip": "CSharp\\DataStructure\\HashSet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:04:57.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\Program.cs",
-              "RelativeDocumentMoniker": "CSharp\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\Program.cs",
-              "RelativeToolTip": "CSharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T16:24:42.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dictionary.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\Dictionary.cs",
-              "RelativeDocumentMoniker": "CSharp\\DataStructure\\Dictionary.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\Dictionary.cs",
-              "RelativeToolTip": "CSharp\\DataStructure\\Dictionary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:04:55.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ArrayList.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\ArrayList.cs",
-              "RelativeDocumentMoniker": "CSharp\\DataStructure\\ArrayList.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\DataStructure\\ArrayList.cs",
-              "RelativeToolTip": "CSharp\\DataStructure\\ArrayList.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAD4vxsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:05:19.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SwitchCase.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\Especial\\SwitchCase.cs",
               "RelativeDocumentMoniker": "CSharp\\Especial\\SwitchCase.cs",
@@ -235,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AbstractClass.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\Poo\\AbstractClass.cs",
               "RelativeDocumentMoniker": "CSharp\\Poo\\AbstractClass.cs",
@@ -247,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AbstractMethod.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\CSharp\\CSharp\\CSharp\\Poo\\AbstractMethod.cs",
               "RelativeDocumentMoniker": "CSharp\\Poo\\AbstractMethod.cs",
@@ -259,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Facade.cs",
               "DocumentMoniker": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Structural\\Facade.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Structural\\Facade.cs",
@@ -271,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Singleton.cs",
               "DocumentMoniker": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Creational\\Singleton.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Creational\\Singleton.cs",
@@ -283,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CSharp.csproj",
               "DocumentMoniker": "C:\\Users\\gabri\\Source\\Repos\\CSharp\\CSharp\\CSharp\\CSharp.csproj",
               "RelativeDocumentMoniker": "CSharp\\CSharp.csproj",
@@ -295,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Observer.cs",
               "DocumentMoniker": "C:\\Users\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Behavior\\Observer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\estagiario.inovacao\\Documents\\CSharp\\CSharp\\CSharp\\Behavior\\Observer.cs",
